@@ -1,4 +1,4 @@
-info = "Мащала".encode('utf-8')
+info = "Машала".encode('utf-8')
 
 value = 'mashala'
 
